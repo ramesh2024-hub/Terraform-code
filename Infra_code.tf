@@ -7,3 +7,6 @@ providers "aws"{
 /*
 Added the Internet  Gateway - Code using the branch-1
 */
+
+
+/* Add VPC */
